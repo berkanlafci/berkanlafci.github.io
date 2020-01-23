@@ -34,10 +34,27 @@ h1 span{
 .div1 {
 
 	margin-top: 50px;
-	margin-left: 160px;
+	margin-left: 300px;
 
 }
 
+.div2 {
+
+	margin-top: 60px;
+	margin-left: 300px;
+	margin-right: 300px;
+
+}
+
+.div3 {
+
+	line-height: 0.2;
+}
+
+/*ul {
+    list-style-position: inside;
+    padding-left: 0;
+}​*/
 
 .avatar {
   vertical-align: middle;
