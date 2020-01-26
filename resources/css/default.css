@@ -2,7 +2,10 @@
 body {
 
 	background-color: white;
-	color: #2C3E50;
+	color: #000000;
+	font-family: Verdana;
+	font-weight: lighter;
+	font-size: 12px;
 
 }
 
@@ -35,6 +38,7 @@ h1 span{
 
 	margin-top: 50px;
 	margin-left: 300px;
+	margin-bottom: 105px
 
 }
 
@@ -84,7 +88,7 @@ h1 span{
 	margin-right: 0px;
 	margin-top: -10px;
 
-	padding: 1px 200px;
+	padding: 1px 300px;
 
 }
 
