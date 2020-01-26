@@ -38,13 +38,13 @@ h1 span{
 
 	margin-top: 50px;
 	margin-left: 300px;
-	margin-bottom: 105px
+	margin-bottom: 40px
 
 }
 
 .div2 {
 
-	margin-top: 60px;
+	margin-top: 0px;
 	margin-left: 300px;
 	margin-right: 300px;
 
@@ -54,6 +54,7 @@ h1 span{
 
 	line-height: 0.2;
 }
+
 
 /*ul {
     list-style-position: inside;
