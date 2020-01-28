@@ -9,6 +9,13 @@ body {
 
 }
 
+html {
+	width: 100%;
+	height: 100%;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
 span {
 
 	margin: 0;
@@ -74,11 +81,11 @@ h1 span{
 	background-color: #515A5A;
 	width: 100%;
 
-	top: 0;
-	left: 0;
+	top: 0px;
+	left: 0px;
 
 	margin-left: -10px;
-	margin-right: 0px;
+	margin-right: -10px;
 	margin-top: -10px;
 
 	padding: 1px 50px;
