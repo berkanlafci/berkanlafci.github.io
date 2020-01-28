@@ -124,16 +124,20 @@ h1 span{
 		border-radius: 50%;
 
 		margin: 0px;
-		margin-left: 0px;
+		/*margin-left: 0px;*/
 		margin-top: 10px;
-		margin-bottom: 50px;
+		margin-bottom: 20px;
+
+		display: block;
+  		margin-left: auto;
+  		margin-right: auto;
 		
 	}
 
 	.div1 {
 	margin-top: 0px;
 	margin-left: 10px;
-	margin-bottom: 0px;
+	margin-bottom: 20px;
 	}
 
 	.div2 {
