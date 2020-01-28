@@ -100,10 +100,10 @@ h1 span{
 
 
 
-@media only screen and (max-width: 800px) {
+@media only screen and (min-device-width : 375px) and (max-device-width : 667px) {
   	.navigation {
   		background-color: #515A5A;
-  		width: 100%;
+  		width: 50%;
 
   		top: 0;
   		left: 0;
@@ -131,17 +131,15 @@ h1 span{
 	}
 
 	.div1 {
-	margin-top: 50px;
+	margin-top: 0px;
 	margin-left: 10px;
-	margin-bottom: 40px;
+	margin-bottom: 0px;
 	}
 
 	.div2 {
-
 	margin-top: 0px;
 	margin-left: 10px;
 	margin-right: 10px;
-
-}
+	}
 
 }
