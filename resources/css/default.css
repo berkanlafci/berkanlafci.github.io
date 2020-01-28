@@ -126,5 +126,12 @@ h1 span{
 		margin: 0px;
 		margin-left: 0px;
 		margin-top: 0px;
-}
+	}
+
+	.div1 {
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 40px;
+	}
+
 }
