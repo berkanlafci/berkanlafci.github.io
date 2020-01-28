@@ -96,3 +96,35 @@ h1 span{
 	text-decoration: none;
 
 }
+
+
+
+
+@media screen and (max-width: 600px) {
+  	.navigation {
+  		background-color: #515A5A;
+  		width: 50%;
+
+  		top: 0;
+  		left: 0;
+
+  		margin-left: -10px;
+  		margin-right: 0px;
+  		margin-top: -10px;
+
+  		padding: 1px 300px;
+	}
+
+	.avatar {
+		vertical-align: middle;
+		float: none;
+
+		width: 200px;
+		height: 200px;
+		border-radius: 50%;
+
+		margin: 0px;
+		margin-left: 0px;
+		margin-top: 0px;
+}
+}
