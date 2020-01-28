@@ -100,7 +100,7 @@ h1 span{
 
 
 
-@media screen and (max-width: 600px) {
+@media only screen and (max-width: 600px) {
   	.navigation {
   		background-color: #515A5A;
   		width: 50%;
