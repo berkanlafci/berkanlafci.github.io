@@ -124,13 +124,13 @@ h1 span{
 		border-radius: 50%;
 
 		margin: 0px;
-		/*margin-left: 0px;*/
+		margin-left: 0px;
 		margin-top: 10px;
 		margin-bottom: 20px;
 
-		display: block;
+/*		display: block;
   		margin-left: auto;
-  		margin-right: auto;
+  		margin-right: auto;*/
 		
 	}
 
