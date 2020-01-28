@@ -100,10 +100,10 @@ h1 span{
 
 
 
-@media only screen and (max-width: 900px) {
+@media only screen and (max-width: 800px) {
   	.navigation {
   		background-color: #515A5A;
-  		width: 50%;
+  		width: 100%;
 
   		top: 0;
   		left: 0;
@@ -112,20 +112,22 @@ h1 span{
   		margin-right: 0px;
   		margin-top: -10px;
 
-  		padding: 1px 300px;
+  		padding: 1px 10px;
 	}
 
 	.avatar {
 		vertical-align: middle;
 		float: none;
 
-		width: 200px;
-		height: 200px;
+		width: 300px;
+		height: 300px;
 		border-radius: 50%;
 
 		margin: 0px;
-		margin-left: 0px;
-		margin-top: 0px;
+		margin-left: auto;
+		margin-top: auto;
+		margin-bottom: 50px;
+		
 	}
 
 	.div1 {
@@ -133,5 +135,13 @@ h1 span{
 	margin-left: 10px;
 	margin-bottom: 40px;
 	}
+
+	.div2 {
+
+	margin-top: 0px;
+	margin-left: 10px;
+	margin-right: 10px;
+
+}
 
 }
