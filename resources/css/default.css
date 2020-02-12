@@ -91,6 +91,7 @@ h4 span{
 }
 
 .logo1 {
+	display: inline-block;
 	vertical-align: middle;
 	float: left;
 
@@ -117,7 +118,7 @@ h4 span{
 	margin-left: 0px;
 	margin-right: 30px;
 	margin-top: 30px;
-	margin-bottom: 40px;
+	margin-bottom: 30px;
 	text-align: center;
 }
 
@@ -163,7 +164,7 @@ h4 span{
 
 
 
-@media only screen and (max-width : 800px) {
+@media only screen and (max-width : 600px) {
   	.navigation {
   		background-color: #515A5A;
   		width: 100%;
