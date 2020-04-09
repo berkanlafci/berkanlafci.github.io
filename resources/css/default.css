@@ -55,6 +55,16 @@ h4 span{
    margin-left: 0px;
 }
 
+ul {
+  padding: 1em;
+  margin: 0;
+}
+
+li {
+  padding-left: 0em; 
+  text-indent: 0em;
+}
+
 .div1 {
 
 	margin-top: 50px;
